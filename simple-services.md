@@ -1,6 +1,6 @@
 # Simple Services Agreement v0.3
 
-`Purpose` If you provide services to test people as a contractor (software development, graphic design - stuff like that), the _Simple Services Agreement_:
+`Purpose` If you provide services to people v0.5 as a contractor (software development, graphic design - stuff like that), the _Simple Services Agreement_:
 - gets you paid;
 - limits what you can get sued for; and
 - makes clear what you agree to do for the customer.
